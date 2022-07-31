@@ -1,6 +1,6 @@
 # PPTr
 
-[Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding]
+Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding
 
 ECCV2022
 
