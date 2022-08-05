@@ -1,6 +1,6 @@
 # PPTr
 
-[Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://github.com/hoi4d/PPTr/blob/main/_ECCV2022__4DPrimitiveTransformer.pdf)
+[Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/pdf/2208.00281.pdf)
 
 ECCV2022
 
